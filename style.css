@@ -10,3 +10,11 @@ p {
 li {
     font-size: 16px;
 }
+
+.center {
+    text-align: center;
+}
+
+center {
+    text-align: center;
+}
